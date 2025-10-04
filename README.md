@@ -3,7 +3,7 @@
 
 > **Time isn’t ticking. It’s trading.**  
 
-[![Twitter](https://img.shields.io/twitter/follow/Tempox_xyz?style=social)](https://twitter.com/Tempox_xyz)  
+[![Twitter](https://img.shields.io/twitter/follow/Tempox_io?style=social)](https://twitter.com/Tempox_io)  
 *Building intelligent, event-aware perpetuals on Arbitrum.*
 
 ---
